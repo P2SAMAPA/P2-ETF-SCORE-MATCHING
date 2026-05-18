@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+torch
+huggingface-hub
+streamlit
+plotly
