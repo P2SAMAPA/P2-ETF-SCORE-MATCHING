@@ -7,7 +7,7 @@ OUTPUT_REPO = "P2SAMAPA/p2-etf-score-matching-results"
 UNIVERSES = {
     "FI_COMMODITIES": ["TLT", "VCIT", "LQD", "HYG", "VNQ", "GLD", "SLV"],
     "EQUITY_SECTORS": [
-        "SPY", "QQQ", "XLK", "XLF", "XLE", "XLV", "XLI", "XLY",
+        "SPY", "QQQ", "XLK", "XLF", "XLE", "XLV", "XLI", "XLY", "SMH", "SOXX", "XLB",
         "XLP", "XLU", "GDX", "XME", "IWF", "XSD", "XBI", "IWM", "IWD", "IWO"
     ],
     "COMBINED": [
